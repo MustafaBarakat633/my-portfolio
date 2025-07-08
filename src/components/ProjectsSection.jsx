@@ -6,7 +6,7 @@ const projects = [
     title: "Plants Store",
     description:
       "An e-commerce platform for plant enthusiasts specializing in indoor and outdoor plants.",
-    image: "/projects/project1.png",
+    image: "projects/project1.png",
     tags: [
       "React",
       "Tailwind CSS",
